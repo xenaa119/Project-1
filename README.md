@@ -1,2 +1,1 @@
-# Project-1
-!
+Projek ini hanya untuk belajar github aja
